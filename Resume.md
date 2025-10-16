@@ -1,1 +1,3 @@
-This is my resume
+Simeon Chenchev
+Computer Science + Math
+2029
